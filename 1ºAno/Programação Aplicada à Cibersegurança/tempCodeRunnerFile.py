@@ -1,0 +1,1 @@
+ [[truncate(str(port_info['port']), 10), truncate(port_info['state'], 10), truncate(port_info['name'], 20), truncate(port_info['version'], 20)] for port_info in result['ports']]
