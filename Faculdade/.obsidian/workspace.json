@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "b1d64ac70cd18f9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d56a804d6d8e3913",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3bc678d74b1b2ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OneNote/Lic. Engenharia de Redes e Segurança Informática/Redes de Computadores I/07112024.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "07112024"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84e178bc823a4dfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "3eaad89000752b20",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38bc74a00ea44d4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "720172f04386e221",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8b55065888aeb5b3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9b1bb7e12e74eac2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7c0e681c910fdd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "372039190c7345aa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OneNote/Lic. Engenharia de Redes e Segurança Informática/Redes de Computadores I/07112024.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 07112024"
+            }
+          },
+          {
+            "id": "05e53f3c3e7f0b95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OneNote/Lic. Engenharia de Redes e Segurança Informática/Redes de Computadores I/07112024.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 07112024"
+            }
+          },
+          {
+            "id": "4a0f2532c48f59b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6af7749ee0098f5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OneNote/Lic. Engenharia de Redes e Segurança Informática/Redes de Computadores I/07112024.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 07112024"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "b3bc678d74b1b2ab",
+  "lastOpenFiles": [
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Direito da Informática/31102024.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Direito da Informática/29102024.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Direito da Informática/22102024.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Direito da Informática/05112024.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Criptografia/26102024.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Criptografia/02102024.md",
+    "Exported image 20241107185637-1.png",
+    "Exported image 20241107185635-0.png",
+    "Exported image 20241107185631-0.png",
+    "Welcome.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Sistemas Distribuidos/22102024.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Sistemas Operativos/Temas para o Exame.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Sistemas Operativos/06112024.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Sistemas Operativos/30102024.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Sistemas Operativos/23102024.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Sistemas Operativos",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Sistemas Distribuidos/05112024.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Sistemas Distribuidos/29102024.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Sistemas Distribuidos",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Redes de Computadores I/07112024.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Redes de Computadores I/31102024.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Redes de Computadores I/24102024.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Redes de Computadores I",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Notas/Untitled-20241107185603.md",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Notas",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Direito da Informática",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática/Criptografia",
+    "OneNote/Lic. Engenharia de Redes e Segurança Informática",
+    "OneNote"
+  ]
+}
