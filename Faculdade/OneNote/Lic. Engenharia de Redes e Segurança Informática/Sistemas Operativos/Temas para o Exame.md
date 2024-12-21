@@ -1,3 +1,0 @@
-- Pcb
-- Concurrency vs parallelism
-- Context switch
